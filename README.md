@@ -1,5 +1,5 @@
 # Natours
-Landing Page for the smart 365-days-per-year food subscription that will make you eat healthy again. Tailored to your personal tastes and nutritional needs.
+An awesome tour booking site.
 # Deployment
 Deployed Website: https://natours-laith.netlify.app
 # Built With
